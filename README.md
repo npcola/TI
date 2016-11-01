@@ -1,8 +1,8 @@
-培训公司名单在list.txt里
+培训机构名单在list.txt里
 
-添加部分公司地址
+最近添加部分公司地址
 
-按Ctrl(command)＋F搜索
+按ctrl(command)＋F搜索
 
 不定期更新
 
