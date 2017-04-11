@@ -7,7 +7,7 @@
 就是这样。喵
 
 ### 有误或未添加
-请发邮件: yangbyte@qq.com
+请发邮件: miaobyte@gmail.com
 
 ### 建议
 
