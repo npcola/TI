@@ -1,4 +1,4 @@
-**培训机构** 名单在 List.txt 里
+**培训机构** 名单在 [List.txt](https://github.com/ZGWS88/TI/blob/master/List.txt) 里
 
 按 Ctrl + F 输入 **公司** 或 **地址** 关键字
 
@@ -7,6 +7,10 @@
 就是这样。喵
 
 ### 有误或未添加
+在 [issues](https://github.com/ZGWS88/TI/issues/new) 提出
+
+or
+
 请发邮件: miaobyte@gmail.com
 
 ### 建议
