@@ -2,16 +2,18 @@
 
 按 Ctrl + F 输入 **公司** 或 **地址** 关键字进行搜索
 
-有误或未添加请在 [issues](https://github.com/ZGWS88/TI/issues/new) 提出
+有误或未添加请在 [issues](https://github.com/ZGWS88/TI/issues/new) 提出 / <a href="mailto:miaobyte@gmail.com">发邮件</a>
 
-不定期更新.喵
+不定期更新喵
 
 ### 建议
-
-感谢热心网友制作 -> [培训机构查询网](http://www.peixun69.com/) / [培训机构查询网](https://blacklist.yitu.yt/)
 
 在选择公司的时候可以先摸摸底子 -> 点击 [天眼查](http://tianyancha.com)
 
 ## 友情链接
 
  [shengxinjing](https://github.com/shengxinjing/) -> [厂商黑名单](https://github.com/shengxinjing/programmer-job-blacklist)
+
+培训机构查询网 -> [培训机构查询网](https://www.peixun69.com/)
+
+培训机构查询网 -> [培训机构查询网](https://blacklist.yitu.yt/)
