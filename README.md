@@ -2,7 +2,7 @@
 
 按 Ctrl + F 输入 **公司** 或 **地址** 关键字进行搜索
 
-有误或未添加请在 [issues](https://github.com/ZGWS88/TI/issues/new) 提出 / <a href="mailto:miaobyte@gmail.com">发邮件</a>
+有误或未添加,请在 [issues](https://github.com/ZGWS88/TI/issues/new)  / <a href="mailto:miaobyte@gmail.com">邮件</a> 提出
 
 不定期更新喵
 
