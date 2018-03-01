@@ -13,9 +13,3 @@
 ## 友情链接
 
  [shengxinjing](https://github.com/shengxinjing/) -> [厂商黑名单](https://github.com/shengxinjing/programmer-job-blacklist)
-
-coding -> [培训机构名单](https://coding.net/u/2333bbbbyte/p/TI/git)
-
-培训机构查询网 -> [培训机构查询网](https://www.peixun69.com/)
-
-培训机构查询网 -> [培训机构查询网](https://blacklist.yitu.yt/)
