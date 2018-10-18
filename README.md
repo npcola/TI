@@ -4,7 +4,7 @@
 
 数据源自网友及自己搜集整理,不保证百分百准确
 
-有误或未添加,请在 [issues](https://github.com/ZGWS88/TI/issues/new)  / <a href="mailto:miaozijy@gmail.com">邮件</a> 提出
+有误或未添加,请在 [issues](https://github.com/ZGWS88/TI/issues/new) 提出
 
 不定期更新
 
