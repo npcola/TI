@@ -15,3 +15,9 @@
 ## 友情链接
 
  [shengxinjing](https://github.com/shengxinjing/) -> [厂商黑名单](https://github.com/shengxinjing/programmer-job-blacklist)
+
+
+
+## License
+
+**MIT**
