@@ -1,4 +1,4 @@
-名单在 [List.txt](https://github.com/ZGWS88/TI/blob/master/List.txt) 里
+培训/外包机构**黑名单**在 [List.txt](https://github.com/ZGWS88/TI/blob/master/List.txt) 里
 
 按 Ctrl + F 输入 **公司** 或 **地址** 关键字进行搜索
 
@@ -15,8 +15,6 @@
 ## 友情链接
 
  [shengxinjing](https://github.com/shengxinjing/) -> [厂商黑名单](https://github.com/shengxinjing/programmer-job-blacklist)
-
-
 
 ## License
 
